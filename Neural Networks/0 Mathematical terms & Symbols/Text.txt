@@ -1,0 +1,4 @@
+Histogram-an approximate representation of the distribution of numerical data
+Binomial-a mathematical expression consisting of two terms connected by a plus sign or minus sign
+
+
